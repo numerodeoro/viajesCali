@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Traslado en moto",
+    "description": "Viajes puerta a puerta en Adrogué, Lomas, Temperley, Banfield y alrededores. Con casco para el acompañante y puntualidad.",
+    "price": "Según distancia",
+    "image": "/img/servicios/traslado.svg",
+    "category": "traslados"
+  },
+  {
+    "id": 2,
+    "name": "Ida y vuelta con espera",
+    "description": "Te acerco al médico, al banco o a una cita, te espero y te vuelvo a llevar. Ideal para turnos con horario.",
+    "price": "Consultar",
+    "image": "/img/servicios/ida-vuelta.svg",
+    "category": "traslados"
+  },
+  {
+    "id": 3,
+    "name": "Compras y mandados",
+    "description": "Hago tus compras chicas (súper, farmacia, ferretería, kiosco) y te las llevo a tu casa. Todo lo que entre en la moto.",
+    "price": "Consultar",
+    "image": "/img/servicios/compras.svg",
+    "category": "mandados"
+  },
+  {
+    "id": 4,
+    "name": "Encomiendas y entregas",
+    "description": "Busco un paquete en un lugar y lo entrego en otro el mismo día. Pedidos de comercios, encargos, cosas que te olvidaste.",
+    "price": "Según distancia",
+    "image": "/img/servicios/paquetes.svg",
+    "category": "mandados"
+  },
+  {
+    "id": 5,
+    "name": "Mensajería de documentos",
+    "description": "Llevo y traigo papeles: contratos para firmar, documentación para escribanías, estudios contables o empresas. Entrega en mano.",
+    "price": "Según distancia",
+    "image": "/img/servicios/documentos.svg",
+    "category": "papeles"
+  },
+  {
+    "id": 6,
+    "name": "Filas, pagos y turnos",
+    "description": "Hago la fila por vos: pago de facturas, retiro de estudios médicos, presentación de papeles ya completos, pedidos de turno presenciales.",
+    "price": "Consultar",
+    "image": "/img/servicios/filas.svg",
+    "category": "papeles"
+  },
+  {
+    "id": 7,
+    "name": "Seguridad en eventos",
+    "description": "Personal de seguridad para recitales, shows y eventos en CABA. Control de accesos y cuidado del público.",
+    "price": "A convenir",
+    "image": "/img/servicios/eventos.svg",
+    "category": "eventos"
+  }
+]
